@@ -5,7 +5,7 @@ This repository contains the work completed as part of my **Data Science Interns
 ## 📄 Internship Details
 
 - **Intern Name:** Mehraj Hossain Mahi  
-- **Student ID:** CA/API/14498  
+- **Student ID:** CA/AP1/4498
 - **Internship Duration:** 1st April 2025 – 30th April 2025  
 - **Organization:** CodeAlpha  
 - **Role:** Data Science Intern  
