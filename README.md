@@ -16,31 +16,21 @@ This repository contains the work completed as part of my **Data Science Interns
 During this internship, I worked on practical applications of data science principles with a focus on hands-on experience, problem-solving, and skill development. Projects included data preprocessing, exploratory data analysis, machine learning model development, and performance evaluation. This repository showcases my contributions during the CodeAlpha Data Science Internship, where I tackled real-world problems through data-driven solutions. Over four weeks, I developed expertise in end-to-end machine learning workflows, from data preprocessing to model deployment, while working on diverse projects spanning trend analysis, predictive modeling, and web development fundamentals.
 
 
-## 🛠️ Technologies Used
-
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib, Seaborn
-- Jupyter Notebook
-- Git & GitHub
-
 ## 📁 Repository Structure
 
 This repository contains the Jupyter Notebook files created as part of the **CodeAlpha Data Science Internship (April 2025)**. Each notebook corresponds to one internship task.
 
-- `Task_1_Unemployment_Analysis.ipynb`  
-  Analysis of unemployment trends using Python and data visualization libraries.
+- `Task_1_Iris_Flower_Classification.ipynb`  
+  A simple machine learning project to classify iris flowers into species using supervised learning algorithms like KNN and logistic regression.
 
-- `Task_2_Car_Price_Prediction.ipynb`  
-  Machine learning model to predict car prices based on features like horsepower, brand, and mileage.
+- `Task_2_Unemployment_Analysis.ipynb`  
+  Exploratory data analysis on unemployment trends in India using Python and data visualization libraries like Matplotlib and Seaborn.
 
-- `Task_3_Personal_Portfolio_Website.ipynb`  
-  Outline and explanation of creating a personal portfolio website using HTML, CSS, and JavaScript (code not included as it's theoretical).
+- `Task_3_Car_Price_Prediction.ipynb`  
+  Machine learning model to predict car prices based on factors like brand reputation, engine specifications, mileage, and more.
 
 - `Task_4_Sales_Prediction.ipynb`  
-  Predicting product sales based on advertising strategies using regression techniques in Python.
-
+  Predicting future sales of a product based on advertising budgets and marketing strategies using regression models.
 ---
 
 ## 🛠️ **Technologies & Tools**
