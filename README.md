@@ -13,7 +13,8 @@ This repository contains the work completed as part of my **Data Science Interns
 
 ## 📌 Project Overview
 
-During this internship, I worked on practical applications of data science principles with a focus on hands-on experience, problem-solving, and skill development. Projects included data preprocessing, exploratory data analysis, machine learning model development, and performance evaluation.
+During this internship, I worked on practical applications of data science principles with a focus on hands-on experience, problem-solving, and skill development. Projects included data preprocessing, exploratory data analysis, machine learning model development, and performance evaluation. This repository showcases my contributions during the CodeAlpha Data Science Internship, where I tackled real-world problems through data-driven solutions. Over four weeks, I developed expertise in end-to-end machine learning workflows, from data preprocessing to model deployment, while working on diverse projects spanning trend analysis, predictive modeling, and web development fundamentals.
+
 
 ## 🛠️ Technologies Used
 
@@ -40,9 +41,18 @@ This repository contains the Jupyter Notebook files created as part of the **Cod
 - `Task_4_Sales_Prediction.ipynb`  
   Predicting product sales based on advertising strategies using regression techniques in Python.
 
+---
 
+## 🛠️ **Technologies & Tools**
+| **Category**       | **Tools/Libraries**                                                                                     |
+|---------------------|---------------------------------------------------------------------------------------------------------|
+| **Programming**     | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">           |
+| **Data Analysis**   | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">, NumPy    |
+| **Machine Learning**| Scikit-learn, XGBoost                                                                                   |
+| **Visualization**   | <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white">, Seaborn |
+| **Tools**           | Jupyter Notebook, Git, GitHub                                                                           |
 
-
+---
 
 
 ## ✅ What I Learned
